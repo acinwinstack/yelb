@@ -1,4 +1,9 @@
 
+# Yelb for VMware HoL - K8s Get Started
+Added `yelb-ui-v2` for the purpose of **VMware HoL - K8s Get Started**. The rest remains the same as [mreferre/yelb](https://github.com/mreferre/yelb).
+
+---
+
 #### Why Yelb 
 
 Yelb is an app I wrote from scratch (leveraging existing frameworks and tools such as Sinatra, Clarity and others). 
